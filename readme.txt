@@ -1,1 +1,1 @@
-#Basic krison Sompeth
+#Basic krison Sompeth   test reade.txt
